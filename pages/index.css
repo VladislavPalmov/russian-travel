@@ -1,7 +1,8 @@
 /*файл normalize*/
 @import url(../vendor/normalize.css);
 
-/*шрифты fonts подключены в html*/
+/*шрифты fonts*/
+@import url(../vendor/fonts/fonts.css);
 
 /*page*/
 @import url(../blocks/page.css);
