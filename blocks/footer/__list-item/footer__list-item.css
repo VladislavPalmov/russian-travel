@@ -1,7 +1,9 @@
 @media screen and (max-width: 767px) {
     .footer__list-item {
-    margin-bottom: 32px;
+        margin-bottom: 32px;
     }
 }
 
-/*ссылки не хотели сдвигаться - пришлось обернуть их*/
+.footer__list-item:last-child {
+    margin-bottom: 0;
+}
