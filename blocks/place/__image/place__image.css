@@ -20,7 +20,7 @@
 @media screen and (max-width: 767px) {
   .place__image {
     min-width: 320px;
-    margin-bottom: -18px;
+    margin-bottom: 32px;
     order: -1;
   }
 }

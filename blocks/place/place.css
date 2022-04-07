@@ -28,6 +28,7 @@
   .place {
     display: flex;
     flex-direction: column;
+    grid-gap: 0;
     margin-bottom: 50px;
   }
 }
