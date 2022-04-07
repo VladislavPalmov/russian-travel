@@ -19,5 +19,7 @@
     order: -2;
     margin: 0 auto;
     align-self: start;
+    margin-top: -18px;
+    margin-bottom: -18px;
   }
 }
